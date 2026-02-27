@@ -31,3 +31,6 @@
    .\.venv\Scripts\python.exe -m pip install -r requirements.txt
    ```
 2. **详细手册**: 见 [docs/PPT转换工具使用指南.md](docs/PPT转换工具使用指南.md)
+
+---
+*Updated: 2026-02-27 | Optimized by Antigravity AI*
