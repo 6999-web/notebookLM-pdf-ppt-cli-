@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+venv/
+ENV/
+
+# Bazel
+bazel-*
+WORKSPACE.local
+
+# PPT Related
+*.pptx
+!assets/*.pptx
+temp_slides/
+*_bg.png
+*_img.png
+
+# IDEs
+.vscode/
+.idea/
